@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+    <AssemblyName>Hearts.HeartsUI</AssemblyName>
+    <RootNamespace>Hearts.HeartsUI</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CardLibrary\CardLibrary.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace CardLibrary
+namespace Hearts.CardLibrary
 {
     public class Card
     {
